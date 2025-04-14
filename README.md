@@ -1,18 +1,9 @@
 <img src="logo-mkspec-header-1.png" alt="MKSPEC logo"  align="left"/>
-
 <h1 align="center"> Spectrendsd</h1>
-
-<p align="center">Funcionalidades adicionais ao Spectrends.</p>
-
-<p>&nbsp;</p>
 
 ## Sobre
 
 O Spectrendsd adiciona novas funcionalidades ao Spectrends instalado em seu computador.
-
-### Novos recursos
-
-- Nova opção de relatórios de estatística
 
 ## Instalação
 
