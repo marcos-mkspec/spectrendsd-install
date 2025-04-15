@@ -9,7 +9,7 @@ O Spectrendsd é uma extensão para o Spectrends, adicionando recursos e melhora
 
 1. <b>Baixe e execute</b>:  Clique aqui para baixar e instalar o Spectrendsd: <a id="InstallButton" href="setup.exe">link para o setup.exe</a>. Não são necessários privilégios de administrador.
 
-2. <b>Atalho</b>: Você também pode iniciar o aplicativo (Windows 10+) usando este atalho: <a href="https://marcos-mkspec.github.io/spectrendsd-install/Spectrendsd.application"> Spectrendsd.application</a>.
+2. <b>Atalho</b>: Você também pode iniciar o aplicativo (Windows 10+) usando este atalho: <a href="Spectrendsd.application"> Spectrendsd.application</a>.
 
 3. <b>Pré-requisitos</b>: Certifique-se de ter o [.NET Desktop Runtime 8](https://get.dot.net/8) instalado.
 
